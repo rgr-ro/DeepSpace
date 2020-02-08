@@ -8,5 +8,5 @@ These images passed as input were not in the training dataset. View the code in 
 These are the results with a training dataset of 51 random images of the original 64 images dataset and an iteration of 500 epochs.
 
 
-![](500%20epochs%20results%20(1).png)
-![](500%20epochs%20results%20(2).png)
+![](Images/500%20epochs%20results%20(1).png)
+![](Images/500%20epochs%20results%20(2).png)
