@@ -10,3 +10,6 @@ These are the results with a training dataset of 51 random images of the origina
 
 ![](Images/500%20epochs%20results%20(1).png)
 ![](Images/500%20epochs%20results%20(2).png)
+
+## DeepSpace Logo:
+![](Images/DeepSpace%20Logo.png)
