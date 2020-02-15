@@ -11,7 +11,8 @@ These are the results with a training dataset of 51 random images of the origina
 ![](Images/500%20epochs%20results%20(1).png)
 ![](Images/500%20epochs%20results%20(2).png)
 
+### Youtube Video:
 [![](http://img.youtube.com/vi/jKWWtMXfMmY/0.jpg)](http://www.youtube.com/watch?v=jKWWtMXfMmY "")
 
-## DeepSpace Logo:
+### DeepSpace Logo:
 ![](Images/DeepSpace%20Logo.png)
