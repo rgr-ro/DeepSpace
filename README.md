@@ -3,7 +3,7 @@
 
 The input image is received by the neural network. Then the neural network generates the predicted image. The Ground Truth image represents the ideal target output. 
 
-These images passed as input were not in the training dataset. View the code in DeepSpace.ipynb.
+These images passed as input were not in the training dataset. View the code in [DeepSpace.ipynb](https://github.com/rgr-ro/DeepSpace/blob/master/DeepSpace.ipynb).
 
 These are the results with a training dataset of 51 random images of the original 64 images dataset and an iteration of 500 epochs.
 
