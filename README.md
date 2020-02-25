@@ -1,5 +1,5 @@
 # DeepSpace
-**A TensorFlow PixToPix based Neural Net which transforms diffused images into fake space photos.**
+**DeepSpace project is a TensorFlow PixToPix based Neural Net which transforms diffused images into fake space photos.**
 
 The input image is received by the neural network. Then the neural network generates the predicted image. The Ground Truth image represents the ideal target output. 
 
